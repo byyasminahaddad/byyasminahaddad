@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/0bodft_69i8x6.css","style"]
+:HL["/brand/yasmina-logo.png","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"SJHN39ve5ek1Yff72l4dn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

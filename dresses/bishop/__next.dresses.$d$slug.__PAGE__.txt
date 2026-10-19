@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2t20tk_8kj1hi.js"
+3:I[50094,["$2"],"SiteHeader"]
+4:I[34272,["$2"],"default"]
+5:I[49407,["$2"],"default"]
+6:"/_next/static/chunks/1xcv4ts86z4xz.js"
+7:I[6,["$2","$6"],""]
+10:I[82157,["$2","$6"],"DressGallery"]
+11:I[15765,["$2"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[15765,["$2"],"$15"]
+17:"MetadataBoundary"
+18:I[15765,["$2"],"$17"]
+:HL["/_next/static/chunks/0bodft_69i8x6.css","style"]
+:HL["/brand/yasmina-logo.png","image"]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"page product-page","children":[["$","$L10",null,{"images":["/images/bishop-1.jpg","/images/bishop-2.jpg","/images/bishop-3.jpg"],"name":"Bishop"}],["$","div",null,{"className":"dress-copy","children":[["$","p",null,{"className":"crumb","children":[["$","$L7",null,{"href":"/dresses","children":"Dresses"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Chess Mina"}]]}],["$","p",null,{"className":"eyebrow","children":"Chess Mina"}],["$","h1",null,{"children":"Bishop"}],["$","p",null,{"children":"Inspired by the Bishop's graceful diagonal movement across the chessboard. Black corset-style bodice with white lapel trim, paired with a full white satin skirt. A high slit keeps the volume light."}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1xcv4ts86z4xz.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"bishop","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"dresses","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0bodft_69i8x6.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2t20tk_8kj1hi.js","async":true}]],["$","html",null,{"lang":"en","className":"rFZ0WG_variable _5nTXMq_variable","children":["$","body",null,{"children":["$","div",null,{"className":"store-shell","children":[["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-brand","children":[["$","img",null,{"src":"/brand/yasmina-logo.png","alt":"Yasmina"}],["$","p",null,{"children":"Chess Mina. Evening dresses in black and white."}]]}],["$","div",null,{"children":[["$","span",null,{"children":"Visit"}],["$","$L7",null,{"href":"/dresses","children":"Dresses"}],["$","$L7",null,{"href":"/contact","children":"Contact"}]]}],["$","div",null,{"children":[["$","span",null,{"children":"The pieces"}],[["$","$L7","white-queen",{"href":"/dresses/white-queen","children":"White Queen"}],["$","$L7","knight",{"href":"/dresses/knight","children":"Knight"}],["$","$L7","black-pearl",{"href":"/dresses/black-pearl","children":"Black Pearl"}],["$","$L7","bishop",{"href":"/dresses/bishop","children":"Bishop"}]]]}],["$","div",null,{"children":[["$","span",null,{"children":"Also"}],[["$","$L7","rook",{"href":"/dresses/rook","children":"Rook"}],["$","$L7","queens-crown",{"href":"/dresses/queens-crown","children":"Queen's Crown"}],["$","$L7","gambit",{"href":"/dresses/gambit","children":"Gambit"}],["$","$L7","checkmate",{"href":"/dresses/checkmate","children":"Checkmate"}]]]}]]}]]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Bishop · Yasmina"}],["$","meta","1",{"name":"description","content":"Yasmina. The Chess Mina collection."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"SJHN39ve5ek1Yff72l4dn"}
+13:null
+9:300
+1b:true
+9:C
+1a:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+19:"$undefined"
+14:"$undefined"
